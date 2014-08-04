@@ -10,7 +10,6 @@ group: "navigation"
 ### 关于我
 
 未出师程序员一枚，在校大学生一个  
-熟悉C语言，会用C++，能写Java，略懂Python
 
 ### 关于网站
 
@@ -18,19 +17,18 @@ group: "navigation"
 
 #### 技术
 
-* 网站源码：<https://github.com/iEverX/ieverx.github.com>
 * [Jekyll Bootstrap][]
 * [Twitter Bootstrap][]
 * [jQuery][]
 
 ### 联系我？
 
-我的邮箱：g.everax(at)gmail.com，有时查的很勤，有时就少看  
+我的邮箱：rockyxplee(at)gmail.com，有时查的很勤，有时就少看  
 新浪微博: [iEverX][weibo]，有事没事就去逛逛  
 github：[iEverX][github]，我的一些代码可以在这里找到  
 
-[weibo]: http://weibo.com/ieverx
-[github]: http://github.com/iEverX
+[weibo]: http://weibo.com/xiaoxiaopingfan
+[github]: http://github.com/RockyRockyLee
 [Jekyll Bootstrap]: http://jekyllbootstrap.com "The Definitive Jekyll Blogging Framework"
 [Twitter Bootstrap]: http://twitter.github.com/bootstrap/
 [jQuery]: http://jquery.com
