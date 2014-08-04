@@ -24,8 +24,8 @@ group: "navigation"
 ### 联系我？
 
 我的邮箱：rockyxplee(at)gmail.com，有时查的很勤，有时就少看  
-新浪微博: [iEverX][weibo]，有事没事就去逛逛  
-github：[iEverX][github]，我的一些代码可以在这里找到  
+新浪微博: [weibo]，有事没事就去逛逛  
+github：[github]，我的一些代码可以在这里找到
 
 [weibo]: http://weibo.com/xiaoxiaopingfan
 [github]: http://github.com/RockyRockyLee
