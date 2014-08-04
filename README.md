@@ -1,9 +1,3 @@
-# EverCoding.net
-
-A static blog built with [Jekyll-BootStrap][] on github pages
-
-**EverCoding.net** is my domain.
-
 ## Function that has been realized
 
 * Home page shows rencent post, categories and tags
